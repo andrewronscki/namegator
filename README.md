@@ -1,4 +1,4 @@
-# curso
+# NameGator
 
 ## Project setup
 ```
